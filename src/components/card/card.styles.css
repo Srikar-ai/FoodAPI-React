@@ -1,0 +1,45 @@
+.card{
+    background-color: aliceblue;
+    width: 75%;
+    height: 25rem;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+}
+img {
+    background-color: black;
+    width: 100%;
+    height: 50%;
+    border-radius: 10px;
+    outline: none;
+    border-radius: 8px;
+    
+}
+.description {
+    width: 20rem;
+    height: 60%;
+    margin-top: 1rem;
+    overflow: scroll;
+    overflow-x: hidden;
+}
+::-webkit-scrollbar {
+    width: 5px;
+    background-color: transparent;
+  }
+::-webkit-scrollbar-thumb:hover {
+    background: #555; 
+}
+::-webkit-scrollbar-thumb {
+    background: #888; 
+  }
+.text-heading{
+    margin-top:1em;
+    text-align: center;
+    font-weight: bolder;
+}
+.card:hover{
+    transform: translateY(-10px);
+    transition: 0.3s ease-in-out;
+}
