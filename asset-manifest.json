@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/FoodAPI-React/static/css/main.c1d093c0.css",
+    "main.js": "/FoodAPI-React/static/js/main.dc5c1710.js",
+    "static/js/787.0aa8a9b7.chunk.js": "/FoodAPI-React/static/js/787.0aa8a9b7.chunk.js",
+    "index.html": "/FoodAPI-React/index.html",
+    "main.c1d093c0.css.map": "/FoodAPI-React/static/css/main.c1d093c0.css.map",
+    "main.dc5c1710.js.map": "/FoodAPI-React/static/js/main.dc5c1710.js.map",
+    "787.0aa8a9b7.chunk.js.map": "/FoodAPI-React/static/js/787.0aa8a9b7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1d093c0.css",
+    "static/js/main.dc5c1710.js"
+  ]
+}
